@@ -47,8 +47,16 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+```
+ Name: G.Chethan kumar
+ Register Number: 212222240022
+```
+![img9](https://github.com/Gchethankumar/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118348224/b099d4f2-dd85-40ed-85df-0632c24fa94e)
+
+![img91](https://github.com/Gchethankumar/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118348224/898ee21a-28fa-4739-8347-8545da94ca92)
+
+![img92](https://github.com/Gchethankumar/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118348224/eba9ce95-d1d9-4234-aba4-cd7ae6b57529)
+
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
